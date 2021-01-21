@@ -107,7 +107,7 @@
       "likes": 295,
       "retweets": 384,
       "replies": 27
-    },
+    }
   
   ],
   "userTweets": [
@@ -152,7 +152,7 @@
       "likes": 453,
       "retweets": 352,
       "replies": 87
-    },
+    }
    
   ],
   "login": {
@@ -256,7 +256,7 @@
       "likes": 6,
       "retweets": 2,
       "replies": 0
-    },
+    }
    
   ]
 }
